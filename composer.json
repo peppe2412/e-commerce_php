@@ -1,0 +1,16 @@
+{
+    "name": "peppe/e-commerce_php",
+    "description": "Progetto e-commerce in php",
+    "autoload": {
+        "psr-4": {
+            "Peppe\\ECommercePhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "peppe2412",
+            "email": "peppeterrazzano79@gmail.com"
+        }
+    ],
+    "require": {}
+}
